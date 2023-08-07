@@ -12,7 +12,6 @@ Achievements:
 - #1 & #2 Student Teams in WACTF 0x05
 
 Community:  
-Emu Exploit runs a local social group in the city of Perth known as [Perth Socialware](https://discord.gg/dQ8FMFQSRp).  
--This group also has a year long [CTF competition](https://socialware.tk) run by team members.
+- Emu Exploit runs a local social group in the city of Perth known as Perth Socialware, Find out more [here](https://emu.team/socialware)
   
-Collaboration with other teams such as [thehackerscrew](https://thehackerscrew.team) (Forming [Advanced Primate Threats](https://ctftime.org/team/208112)).
+- Collaboration with other teams such as [thehackerscrew](https://thehackerscrew.team) (Forming [Advanced Primate Threats](https://ctftime.org/team/208112)).
