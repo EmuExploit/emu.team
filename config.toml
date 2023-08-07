@@ -51,7 +51,7 @@ enableRobotsTXT = true
     weight = 4
 
   [[menu.main]]
-    identifier = "socialware"
-    name = "Socialware"
-    url = "/socialware"
+    identifier = "perth-socialware"
+    name = "Perth Socialware"
+    url = "/perth-socialware"
     weight = 5
