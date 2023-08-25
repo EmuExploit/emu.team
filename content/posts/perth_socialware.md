@@ -8,11 +8,12 @@ Perth Socialware hosts events for those who have an interest in or passion for c
 
 It is an onsite event in Perth where presentations and workshops are held. Join the discord, or check eventbrite for upcoming events.
 
-Our next event is on the 23rd of August, 2023 - Get tickets here:
-[https://www.eventbrite.com.au/e/perth-socialware-0x01-introduction-to-capture-the-flag-ctf-tickets-693512794437](https://www.eventbrite.com.au/e/perth-socialware-0x01-introduction-to-capture-the-flag-ctf-tickets-693512794437)
-
 Find us on:
 - Discord: [https://discord.gg/dQ8FMFQSRp](https://discord.gg/dQ8FMFQSRp)
 - Linkedin: [https://www.linkedin.com/groups/14191075/](https://www.linkedin.com/groups/14191075/)
 
+- EventBrite [https://eventbrite.com.au/](https://eventbrite.com.au/)
+
 Perth Socialware also hosts a 24/7/365 CTF! Find it here: [https://socialware.emu.team](https://socialware.emu.team)
+
+For past event Slides & Recordings, check here: [https://emu.team/perth-socialware-archive](https://emu.team/perth-socialware-archive)
