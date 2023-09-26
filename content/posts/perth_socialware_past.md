@@ -4,7 +4,8 @@ title: "Perth Socialware Archive"
 type: "page"
 ---
 
-Go back: [here](https://emu.team/perth-socialware)
+Go back: [here](https://emu.team/perth-socialware)  
+Socialware Workshops Github Repository: [EmuExploit/socialware-workshops](https://github.com/EmuExploit/socialware-workshops)
 
 0x01 - Intro to CTFs: [slides (pdf)](https://emu.team/perth-socialware-archive/0x01/0x01_-_Intro_to_CTFs_Slides.pdf)
   
