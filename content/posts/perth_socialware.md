@@ -11,8 +11,7 @@ It is an onsite event in Perth where presentations and workshops are held. Join 
 Find us on:
 - Discord: [https://discord.gg/dQ8FMFQSRp](https://discord.gg/dQ8FMFQSRp)
 - Linkedin: [https://www.linkedin.com/groups/14191075/](https://www.linkedin.com/groups/14191075/)
-
-- EventBrite [https://eventbrite.com.au/](https://eventbrite.com.au/)
+- EventBrite [https://www.eventbrite.com/cc/perth-socialware-2679089](https://www.eventbrite.com/cc/perth-socialware-2679089)
 
 Perth Socialware also hosts a 24/7/365 CTF! Find it here: [https://socialware.emu.team](https://socialware.emu.team)
 
