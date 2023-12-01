@@ -26,3 +26,4 @@ type: "page"
 - romanianpsycho
 - l33td0x3r
 - the_real_eel
+- [pwnpope](https://www.youtube.com/@pwnpope)
