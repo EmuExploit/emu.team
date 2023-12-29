@@ -16,5 +16,5 @@ Find us on:
 
 PSW 24/7/365 CTF Platform: [https://socialware.emu.team](https://socialware.emu.team)
 
-For past event Slides & Recordings, check here: [https://emu.team/perth-socialware-archive](https://emu.team/perth-socialware-archive)
-For the Perth Socialware Code of Conduct, check here: [Code of Conduct](https://emu.team/perth-socialware-code-of-conduct)
+For past event Slides & Recordings, check here: [https://emu.team/perth-socialware-archive](https://emu.team/perth-socialware-archive)  
+Perth Socialware Code of Conduct, check here: [Code of Conduct](https://emu.team/perth-socialware-code-of-conduct)
