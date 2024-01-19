@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emu Exploit</title>
+    <link>https://emu.team/</link>
+    <description>Recent content on Emu Exploit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://emu.team/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://emu.team/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://emu.team/about/</guid>
+      <description>Emu Exploit, formerly PissedEmu, is Australia’s top Competitive Hacking team. Based in Perth WA, the team has over 3 years experience capturing flags (Founded 2021). The team consists of many highschool and university students, as well as industry professionals.
+Achievements:
+#1 CTFtime rating in Australia (2022 &amp;amp; 2023) #2 &amp;amp; #3 Tertiary Education Teams DUCTF 2022 #1 &amp;amp; #2 Student Teams in WACTF 0x05 Community:
+Emu Exploit runs a local social group in the city of Perth known as Perth Socialware, find out more here</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://emu.team/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://emu.team/contact/</guid>
+      <description>Join Perth Socialware and DM toasterpwn#7188 or TheSavageTeddy#7458:
+https://discord.gg/RQy6eSNAbc Twitter:
+@EmuExploit LinkedIn:
+https://au.linkedin.com/company/emu-exploit Email:
+exploit [at] emu [dot] team </description>
+    </item>
+    
+    <item>
+      <title>Members</title>
+      <link>https://emu.team/members/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://emu.team/members/</guid>
+      <description> toasterpwn (Captain) TheSavageTeddy (Vice Captain) q3st1on bradan GhostCcamm Loaf torry2 h04x3d anvbis CyberQuacker &amp;lt;DIV&amp;gt; msimonelli TurboPenguin Panc4kes 0xHornet s3Ge1n coc0a tombl nullableVoidPtr romanianpsycho l33td0x3r the_real_eel pwnpope </description>
+    </item>
+    
+    <item>
+      <title>Perth Socialware</title>
+      <link>https://emu.team/perth-socialware/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://emu.team/perth-socialware/</guid>
+      <description>Perth Socialware hosts events for those who have an interest in or passion for cybersecurity. Students and professionals alike come together to network, learn and share ideas with likeminded people.
+A CTF platform, talks, workshops and more at Perth Socialware. Check https://emu.team/tickets for our latest event, or via the links below:
+Find us on:
+Discord Linkedin EventBrite Email: socialware [at] emu [dot] team PSW 24/7/365 CTF Platform: https://socialware.emu.team
+For past event Slides &amp;amp; Recordings, check here: https://emu.</description>
+    </item>
+    
+    <item>
+      <title>Perth Socialware Archive</title>
+      <link>https://emu.team/perth-socialware-archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://emu.team/perth-socialware-archive/</guid>
+      <description>Go back: here
+Socialware Workshops Github Repository: EmuExploit/socialware-workshops
+0x01 - Intro to CTFs: slides (pdf)
+0x02 - Introduction to Reverse Engineering (Part 1): slides (pdf)
+0x02 - Introduction to Reverse Engineering (Part 1): filedrop (github)
+0x03 - Introduction to Reverse Engineering (Part 2): slides (pdf)
+0x03 - Introduction to Reverse Engineering (Part 2): filedrop (github)</description>
+    </item>
+    
+    <item>
+      <title>Perth Socialware Code of Conduct</title>
+      <link>https://emu.team/perth-socialware-code-of-conduct/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://emu.team/perth-socialware-code-of-conduct/</guid>
+      <description>Perth Socialware is designed to be a safe and inclusive space for anyone interested in cybersecurity. This Code of Conduct describes the standards you agree to uphold in attendance of our events, including (but not limited to): Perth Socialware events, online forums and platforms.
+Agreement: By participating in Perth Socialware in any manner or extent, you agree to the following terms as outlined in this Code of Conduct. We (Perth Socialware) and the management team (Emu Exploit) reserve the right to determine what constitutes a breach of this Code, and in the case of a breach or violation of this agreement, the actions that will be taken to enforce or rectify the agreement.</description>
+    </item>
+    
+  </channel>
+</rss>
