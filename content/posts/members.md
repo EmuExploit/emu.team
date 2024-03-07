@@ -24,3 +24,5 @@ type: "page"
 - [coc0a](https://twitter.com/coc0a__)
 - the_real_eel
 - [pwnpope](https://www.youtube.com/@pwnpope)
+- [Pew](https://twitter.com/TheGrandPew)
+- [ItsIronicIInsist](https://itsironiciinsist.github.io/)
