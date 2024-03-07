@@ -11,6 +11,7 @@ type: "page"
 - [GhostCcamm](https://www.ghostccamm.com)
 - [Loaf](file:///dev/null)
 - [torry2](https://torrytw.ooo)
+- [nullableVoidPtr](https://nullablevo.id.au/)
 - [h04x3d](https://twitter.com/h04x3d)
 - [anvbis](https://anvbis.au)
 - [CyberQuacker](https://hatedpw.github.io/CyberQuackers/)
@@ -21,9 +22,5 @@ type: "page"
 - [0xHornet](https://twitter.com/0xHornet)
 - [s3Ge1n](https://twitter.com/SeG3ln)
 - [coc0a](https://twitter.com/coc0a__)
-- [tombl](https://twitter.com/tombl18)
-- [nullableVoidPtr](https://nullablevo.id.au/)
-- romanianpsycho
-- l33td0x3r
 - the_real_eel
 - [pwnpope](https://www.youtube.com/@pwnpope)

@@ -37,7 +37,7 @@ exploit [at] emu [dot] team </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://emu.team/members/</guid>
-      <description> toasterpwn (Captain) TheSavageTeddy (Vice Captain) q3st1on bradan GhostCcamm Loaf torry2 h04x3d anvbis CyberQuacker &amp;lt;DIV&amp;gt; msimonelli TurboPenguin Panc4kes 0xHornet s3Ge1n coc0a tombl nullableVoidPtr romanianpsycho l33td0x3r the_real_eel pwnpope </description>
+      <description> toasterpwn (Captain) TheSavageTeddy (Vice Captain) q3st1on bradan GhostCcamm Loaf torry2 nullableVoidPtr h04x3d anvbis CyberQuacker &amp;lt;DIV&amp;gt; msimonelli TurboPenguin Panc4kes 0xHornet s3Ge1n coc0a the_real_eel pwnpope </description>
     </item>
     
     <item>
@@ -65,7 +65,8 @@ Socialware Workshops Github Repository: EmuExploit/socialware-workshops
 0x02 - Introduction to Reverse Engineering (Part 1): slides (pdf)
 0x02 - Introduction to Reverse Engineering (Part 1): filedrop (github)
 0x03 - Introduction to Reverse Engineering (Part 2): slides (pdf)
-0x03 - Introduction to Reverse Engineering (Part 2): filedrop (github)</description>
+0x03 - Introduction to Reverse Engineering (Part 2): filedrop (github)
+0x05 - Causing Funky Things in your NodeJS Web Servers: slides (pdf) / Google Slides (sharelink) 0x05 - Causing Funky Things in your NodeJS Web Servers: Object CTF (29/01/24)</description>
     </item>
     
     <item>
