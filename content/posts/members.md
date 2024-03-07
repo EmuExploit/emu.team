@@ -26,3 +26,4 @@ type: "page"
 - [pwnpope](https://www.youtube.com/@pwnpope)
 - [Pew](https://twitter.com/TheGrandPew)
 - [ItsIronicIInsist](https://itsironiciinsist.github.io/)
+- [ssparrow](https://twitter.com/stacksparrow4)
