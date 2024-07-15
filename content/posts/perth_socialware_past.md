@@ -18,4 +18,4 @@ Socialware Workshops Github Repository: [EmuExploit/socialware-workshops](https:
 0x05 - Causing Funky Things in your NodeJS Web Servers: [slides (pdf)](https://emu.team/perth-socialware-archive/0x05/0x05_CausingFunkyThingsinyourNodeJSWebServers.pdf) / [Google Slides (sharelink)](https://ghostccamm.com/slides/nodejs-objects)
 0x05 - Causing Funky Things in your NodeJS Web Servers: [Object CTF (29/01/24)](https://objectctf.ghostccamm.com/)
 
-0x06 - Writeups Down Under: [slides (pdf)](https://emu.team/0x06/0x06_WriteupsDownUnder.pdf)
+0x06 - Writeups Down Under: [slides (pdf)](https://emu.team/perth-socialware-archive/0x06/0x06_WriteupsDownUnder.pdf)
