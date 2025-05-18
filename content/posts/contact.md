@@ -4,7 +4,7 @@ title: "Contact"
 type: "page"
 ---
 
-Join Perth Socialware and DM `toasterpwn#7188` or `TheSavageTeddy#7458`:
+Join Perth Socialware and/or DM `toasterpwn` or `thesavageteddy`:
 - https://discord.gg/RQy6eSNAbc
 
 Twitter:
